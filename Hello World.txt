@@ -3,3 +3,4 @@ print("Hello, stars!";);
 print("Hello, space";);
 print("Hello";);
 print("Hello";);
+print("Hello";);
